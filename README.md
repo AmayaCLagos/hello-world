@@ -1,2 +1,4 @@
 # hello-world
-I dunno
+
+Hello world!
+I like dogs and bacteria and I enjoy learning new stuffs
